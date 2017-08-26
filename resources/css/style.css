@@ -1,0 +1,73 @@
+div {
+	background-image: url("building.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	padding-top: 30px;
+}
+
+html {
+	margin: auto;
+	text-align: center;
+	line-height: 1em;
+}
+
+.menu {
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+	font-weight: bold;
+	letter-spacing: -1px;
+}
+
+h3 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h4 {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bold;
+}
+
+#designed-in {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bolder;
+	color: white;
+	background-image: url("building.png");
+	padding: 5px 5px;
+	letter-spacing: -1px;
+}
+
+p {
+	font-family: Helvetica;
+	font-size: 14px;
+	/* I wanted <p> to be little bit boler/thicker, but this property doesn´t work */
+	font-weight: 500;
+
+}
+
+footer {
+	font-family: Helvetica;
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+	text-align: left;
+	font-weight: bold;
+	margin: auto;
+	padding: 1px 1px;
+}
+
+.footer {
+    color: white;
+    font-size: 11px;
+}
